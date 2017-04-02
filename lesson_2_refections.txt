@@ -1,0 +1,9 @@
+ What happens when you initialize a repository? Why do you need to do it?
+
+    This is set-up for version control for a project. I am indicating what need to be tracked by git.
+
+ How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+ 	It works as a commit-ready template, and it gives more flexibility for user to control commit.
+
+ 
